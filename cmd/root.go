@@ -37,7 +37,7 @@ var rootCmd = &cobra.Command{
 	Short: "Pomo-Flow is a rich cli task management tool centered aroud pomodoro techniques.",
 	Long: `A tool that creates simple todo list, 
 	offer timers for the tasks and track status of the tasks. 
-	The tool will be modelled after the [pomofocus](https://pomofocus.io/) app and uses it as a reference`,
+	The tool will be modeled after the [pomofocus](https://pomofocus.io/) app and uses it as a reference`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	// Run: func(cmd *cobra.Command, args []string) { },
